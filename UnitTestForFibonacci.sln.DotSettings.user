@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2a57a30f_002D97da_002D459d_002D90c7_002D2f759ad85df1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Generate_ShallThrowException_IfNIsSmallerThanZero" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::F87F2EB6-1CA0-4D57-9D1F-DAC3DEF0D344::net8.0::FibonacciGeneratorTests.FibonacciTests.Generate_ShallThrowException_IfNIsSmallerThanZero&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::F87F2EB6-1CA0-4D57-9D1F-DAC3DEF0D344::net8.0::FibonacciGeneratorTests.FibonacciTests.Generate_ShallThrowException_IfNIsLargerThan46&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
