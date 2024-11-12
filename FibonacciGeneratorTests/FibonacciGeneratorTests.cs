@@ -54,13 +54,11 @@ public class FibonacciTests
         var result = Fibonacci.Generate(46);
         Assert.That(result.Last(), Is.EqualTo(1134903170));
     }
-    
+
     [Test]
     public void Generate_ShallProduceSequenceEmpty_ForNEqualTo0()
     {
         var result = Fibonacci.Generate(0);
-        /*Assert.That(result, Is.EqualTo(Is.Empty));*/
-        /*Assert.That(result.DefaultIfEmpty(), Is.EqualTo(Is.Empty));*/
-        Assert.That(result, Is.EqualTo(Is.Empty));
+        Assert.That(result, Is.Empty);
     }
 }
